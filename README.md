@@ -1,2 +1,2 @@
-# Multilayer-Perceptron_Learning
-Learning Deep Learning
+# Generative-Deep-Learning
+1. MLP

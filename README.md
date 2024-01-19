@@ -1,3 +1,3 @@
 # Generative-Deep-Learning
-work on branch not main for now(master)
+work on branch(master) not main for now
 1. MLP
